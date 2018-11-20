@@ -1,0 +1,15 @@
+{
+  "name": "顾驰的pwa",
+  "short_name": "ladygaga",
+  "start_url": "/index.html",
+  "theme_color": "green",
+  "icons": [
+    {
+      "src": "homescreen.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "display": "standalone",
+  "background_color": "#000"
+}
